@@ -1,2 +1,3 @@
-# be-the-hero
+# Be The Hero
+
 Projeto resultado da Semana Omnistack #11
